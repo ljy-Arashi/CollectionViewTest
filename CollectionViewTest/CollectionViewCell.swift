@@ -11,4 +11,5 @@ import UIKit
 class CollectionViewCell: UICollectionViewCell {
     
     @IBOutlet weak var imageView: UIImageView!
+    //分支变更
 }
